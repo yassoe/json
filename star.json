@@ -35,11 +35,11 @@
 
 
     "NATIVESWITCHBANNER":"false",
-    "RUN":"true",
+    "RUN":"false",
     
     "MAINADS":"true",
 
-    "FACEBOOKADSFIRST":"true",
+    "FACEBOOKADSFIRST":"false",
   
 
 	
