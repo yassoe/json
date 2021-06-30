@@ -24,7 +24,7 @@
 	"GOOGLE_BANNER1BEDDING2":"ca-app-pub-3940256099942544/630097811p1",
 	
 	
-	"BG_IMG":"https://i.pinimg.com/564x/c3/ce/9a/c3ce9aee5fa7ccd9abccf2cbb7ca129e.jpg",
+	"BG_IMG":"https://i.ibb.co/5GRRFKp/c92e2ed14a7db606f2e50cee907ece5a.png",
 
 
 	"INTER_INTERVAL":1,
@@ -47,50 +47,50 @@
 	
     "Main":[
 					
-					{
-						"picture":"https://i.pinimg.com/564x/56/74/42/567442750cecf60470e471e055207ad1.jpg",
+				{
+						"picture":"https://i.ibb.co/9r91S6S/tips.png",
 						"link"   :"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5303702/",
 						"name":"Latest Trick",
 						"type":"false"
 					},
 					{
-						"picture":"https://i.pinimg.com/564x/86/f2/46/86f2464287c781dfd5d218dcc657865d.jpg",
+						"picture":"https://i.ibb.co/BVHC6FM/tips2.png",
 						"link"   :"https://play.google.com/store/search?q=Akulaku&c=apps",
 						"name":"Latest Trick",
 						"type":"false"
 					},
-					{
-						"picture":"https://i.pinimg.com/564x/97/d7/f1/97d7f11ea52535264d4fbe1a7d5d8527.jpg",
+				        {
+						"picture":"https://i.ibb.co/f8nF1Gs/tips3.png",
 						"link"   :"afVnQoR4XsE",
 						"name":"Latest Trick",
 						"type":"true"
 					},
 					{
-						"picture":"https://i.pinimg.com/564x/11/60/ef/1160ef426de7d8710c340bb43611ab2f.jpg",
-						"link"   :"https://play.google.com/store/search?q=Akulaku&c=apps",
-						"name":"Latest One Tap Auto Headshot Trick",
-						"type":"false"
-					},
-					{
-						"picture":"https://i.pinimg.com/564x/6e/2c/3d/6e2c3da3d809a4c100886f2566042bec.jpg",
-						"link"   :"afVnQoR4XsE",
-						"name":"Latest Trick",
-						"type":"true"
-					},
-					{
-						"picture":"https://i.pinimg.com/564x/af/ed/f3/afedf37011f0354eb28dfb19bea91e1b.jpg",
+						"picture":"https://i.ibb.co/vx55nRp/tips44.png",
 						"link"   :"https://play.google.com/store/search?q=Akulaku&c=apps",
 						"name":"Latest Trick",
 						"type":"false"
 					},
 					{
-						"picture":"https://i.pinimg.com/564x/af/ed/f3/afedf37011f0354eb28dfb19bea91e1b.jp",
+						"picture":"https://i.ibb.co/C0sJvcc/tips5.png",
 						"link"   :"afVnQoR4XsE",
 						"name":"Latest Trick",
 						"type":"true"
 					},
 					{
-						"picture":"https://i.pinimg.com/564x/af/ed/f3/afedf37011f0354eb28dfb19bea91e1b.jp",
+						"picture":"https://i.ibb.co/cwXGbLT/tips66.png",
+						"link"   :"https://play.google.com/store/search?q=Akulaku&c=apps",
+						"name":"Latest Trick",
+						"type":"false"
+					},
+					{
+						"picture":"https://i.ibb.co/S0dZP6F/tips7.png",
+						"link"   :"afVnQoR4XsE",
+						"name":"Latest Trick",
+						"type":"true"
+					},
+					{
+						"picture":"https://i.ibb.co/vHtKbmT/tips8.png",
 						"link"   :"https://play.google.com/store/search?q=Akulaku&c=apps",
 						"name":"Latest Trick",
 						"type":"false"
@@ -103,33 +103,33 @@
 	"videos":[
 					
 					{
-						"picture":"https://img.youtube.com/vi/js0jfg6ydfU/maxresdefault.jpg",
-						"link":"js0jfg6ydfU",
+						"picture":"https://img.youtube.com/vi/UnWQyUzAYfY/maxresdefault.jpg",
+						"link":"UnWQyUzAYfY",
 						"name":"Latest Trick"
 					},
 					{
-						"picture":"https://img.youtube.com/vi/4db5JzYQRNM/maxresdefault.jpg",
-						"link":"4db5JzYQRNM",
+						"picture":"https://img.youtube.com/vi/L4VXsQdqHCI/maxresdefault.jpg",
+						"link":"L4VXsQdqHCI",
 						"name":"Latest Trick"
 					},
 					{
-						"picture":"https://img.youtube.com/vi/-KKQfAgRRW0/maxresdefault.jpg",
-						"link":"-KKQfAgRRW0",
+						"picture":"https://img.youtube.com/vi/RZMba8dx9eY/maxresdefault.jpg",
+						"link":"RZMba8dx9eY",
 						"name":"Latest Trick"
 					},
 					{
-						"picture":"https://img.youtube.com/vi/jLjXHNOFhYI/maxresdefault.jpg",
-						"link":"jLjXHNOFhYI",
+						"picture":"https://img.youtube.com/vi/0HdAupncuHg/maxresdefault.jpg",
+						"link":"0HdAupncuHg",
 						"name":"Latest Trick"
 					},
 					{
-						"picture":"https://img.youtube.com/vi/M22TOvQkv70/maxresdefault.jpg",
-						"link":"M22TOvQkv70",
+						"picture":"https://img.youtube.com/vi/rb3dsH22QtQ/maxresdefault.jpg",
+						"link":"rb3dsH22QtQ",
 						"name":"Latest Trick"
 					},
 					{
-						"picture":"https://img.youtube.com/vi/6aj9gkUfoW8/maxresdefault.jpg",
-						"link":"6aj9gkUfoW8",
+						"picture":"https://img.youtube.com/vi/YusfxSZeGik/maxresdefault.jpg",
+						"link":"YusfxSZeGik",
 						"name":"Latest Trick"
 					}
 					
@@ -217,51 +217,51 @@
     "Main":[
 					
 					{
-						"picture":"https://i.pinimg.com/564x/56/74/42/567442750cecf60470e471e055207ad1.jpg",
+						"picture":"https://i.ibb.co/9r91S6S/tips.png",
 						"link"   :"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5303702/",
-						"name":"Latest One Tap Auto Headshot Trick",
+						"name":"Latest Trick",
 						"type":"false"
 					},
 					{
-						"picture":"https://i.pinimg.com/564x/86/f2/46/86f2464287c781dfd5d218dcc657865d.jpg",
+						"picture":"https://i.ibb.co/BVHC6FM/tips2.png",
 						"link"   :"https://play.google.com/store/search?q=Akulaku&c=apps",
-						"name":"Latest One Tap Auto Headshot Trick",
+						"name":"Latest Trick",
 						"type":"false"
 					},
 				        {
-						"picture":"https://i.pinimg.com/564x/97/d7/f1/97d7f11ea52535264d4fbe1a7d5d8527.jpg",
+						"picture":"https://i.ibb.co/f8nF1Gs/tips3.png",
 						"link"   :"afVnQoR4XsE",
-						"name":"Latest One Tap Auto Headshot Trick",
+						"name":"Latest Trick",
 						"type":"true"
 					},
 					{
-						"picture":"https://i.pinimg.com/564x/11/60/ef/1160ef426de7d8710c340bb43611ab2f.jpg",
+						"picture":"https://i.ibb.co/vx55nRp/tips44.png",
 						"link"   :"https://play.google.com/store/search?q=Akulaku&c=apps",
-						"name":"Latest One Tap Auto Headshot Trick",
+						"name":"Latest Trick",
 						"type":"false"
 					},
 					{
-						"picture":"https://i.pinimg.com/564x/6e/2c/3d/6e2c3da3d809a4c100886f2566042bec.jpg",
+						"picture":"https://i.ibb.co/C0sJvcc/tips5.png",
 						"link"   :"afVnQoR4XsE",
-						"name":"Latest One Tap Auto Headshot Trick",
+						"name":"Latest Trick",
 						"type":"true"
 					},
 					{
-						"picture":"https://i.pinimg.com/564x/af/ed/f3/afedf37011f0354eb28dfb19bea91e1b.jpg",
+						"picture":"https://i.ibb.co/cwXGbLT/tips66.png",
 						"link"   :"https://play.google.com/store/search?q=Akulaku&c=apps",
-						"name":"Latest One Tap Auto Headshot Trick",
+						"name":"Latest Trick",
 						"type":"false"
 					},
 					{
-						"picture":"https://i.pinimg.com/564x/af/ed/f3/afedf37011f0354eb28dfb19bea91e1b.jpg",
+						"picture":"https://i.ibb.co/S0dZP6F/tips7.png",
 						"link"   :"afVnQoR4XsE",
-						"name":"Latest One Tap Auto Headshot Trick",
+						"name":"Latest Trick",
 						"type":"true"
 					},
 					{
-						"picture":"https://i.pinimg.com/564x/af/ed/f3/afedf37011f0354eb28dfb19bea91e1b.jpg",
+						"picture":"https://i.ibb.co/vHtKbmT/tips8.png",
 						"link"   :"https://play.google.com/store/search?q=Akulaku&c=apps",
-						"name":"Latest One Tap Auto Headshot Trick",
+						"name":"Latest Trick",
 						"type":"false"
 					}
 	],
@@ -269,34 +269,34 @@
 	"videos":[
 					
 					{
-						"picture":"https://img.youtube.com/vi/js0jfg6ydfU/maxresdefault.jpg",
-						"link":"js0jfg6ydfU",
-						"name":"Latest One Tap Auto Headshot Trick"
+						"picture":"https://img.youtube.com/vi/UnWQyUzAYfY/maxresdefault.jpg",
+						"link":"UnWQyUzAYfY",
+						"name":"Latest Trick"
 					},
 					{
-						"picture":"https://img.youtube.com/vi/4db5JzYQRNM/maxresdefault.jpg",
-						"link":"4db5JzYQRNM",
-						"name":"Latest One Tap Auto Headshot Trick"
+						"picture":"https://img.youtube.com/vi/L4VXsQdqHCI/maxresdefault.jpg",
+						"link":"L4VXsQdqHCI",
+						"name":"Latest Trick"
 					},
 					{
-						"picture":"https://img.youtube.com/vi/-KKQfAgRRW0/maxresdefault.jpg",
-						"link":"-KKQfAgRRW0",
-						"name":"Latest One Tap Auto Headshot Trick"
+						"picture":"https://img.youtube.com/vi/RZMba8dx9eY/maxresdefault.jpg",
+						"link":"RZMba8dx9eY",
+						"name":"Latest Trick"
 					},
 					{
-						"picture":"https://img.youtube.com/vi/jLjXHNOFhYI/maxresdefault.jpg",
-						"link":"jLjXHNOFhYI",
-						"name":"Latest One Tap Auto Headshot Trick"
+						"picture":"https://img.youtube.com/vi/0HdAupncuHg/maxresdefault.jpg",
+						"link":"0HdAupncuHg",
+						"name":"Latest Trick"
 					},
 					{
-						"picture":"https://img.youtube.com/vi/M22TOvQkv70/maxresdefault.jpg",
-						"link":"M22TOvQkv70",
-						"name":"Latest One Tap Auto Headshot Trick"
+						"picture":"https://img.youtube.com/vi/rb3dsH22QtQ/maxresdefault.jpg",
+						"link":"rb3dsH22QtQ",
+						"name":"Latest Trick"
 					},
 					{
-						"picture":"https://img.youtube.com/vi/6aj9gkUfoW8/maxresdefault.jpg",
-						"link":"6aj9gkUfoW8",
-						"name":"Latest One Tap Auto Headshot Trick"
+						"picture":"https://img.youtube.com/vi/YusfxSZeGik/maxresdefault.jpg",
+						"link":"YusfxSZeGik",
+						"name":"Latest Trick"
 					}
 					
 					
