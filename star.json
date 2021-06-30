@@ -1,4 +1,6 @@
 {
+    
+
 	"GOOGLE_INTERSTITIAL":"ca-app-pub-3940256099942544/1033173712",
 	"GOOGLE_NATIVE":"ca-app-pub-3940256099942544/2247696110",
 	"GOOGLE_NATIVE1":"ca-app-pub-3940256099942544/2247696110",
@@ -24,7 +26,8 @@
 	"GOOGLE_BANNER1BEDDING2":"ca-app-pub-3940256099942544/630097811p1",
 	
 	
-	"BG_IMG":"https://i.ibb.co/5GRRFKp/c92e2ed14a7db606f2e50cee907ece5a.png",
+	
+	"BG_IMG":"https://i.pinimg.com/564x/c3/ce/9a/c3ce9aee5fa7ccd9abccf2cbb7ca129e.jpg",
 
 
 	"INTER_INTERVAL":1,
@@ -38,13 +41,22 @@
     
     "MAINADS":"true",
 
-    "FACEBOOKADSFIRST":"false",
+    "FACEBOOKADSFIRST":"true",
   
+
+	
 
 	"IMAGEMAIN":"https://play-lh.googleusercontent.com/Hb3yKJS1qWBwbEO9mdMan8oLf4LaEe-3AU1zLZWE0CyDDLEWUsrDzM4w6qkpL_nJd9If=w1440-h767-rw",
 	"TXTMAIN":"Latest One Tap Auto Headshot Trick ",
 	"MAINLINK":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5303702/",
 	
+    
+    
+    
+    
+    
+
+
     "Main":[
 					
 				{
@@ -100,37 +112,43 @@
 	
 
 
+	
+
+	
+
+	
+
 	"videos":[
 					
 					{
-						"picture":"https://img.youtube.com/vi/UnWQyUzAYfY/maxresdefault.jpg",
-						"link":"UnWQyUzAYfY",
-						"name":"Latest Trick"
+						"picture":"https://img.youtube.com/vi/js0jfg6ydfU/maxresdefault.jpg",
+						"link":"js0jfg6ydfU",
+						"name":"Latest One Tap Auto Headshot Trick"
 					},
 					{
-						"picture":"https://img.youtube.com/vi/L4VXsQdqHCI/maxresdefault.jpg",
-						"link":"L4VXsQdqHCI",
-						"name":"Latest Trick"
+						"picture":"https://img.youtube.com/vi/4db5JzYQRNM/maxresdefault.jpg",
+						"link":"4db5JzYQRNM",
+						"name":"Latest One Tap Auto Headshot Trick"
 					},
 					{
-						"picture":"https://img.youtube.com/vi/RZMba8dx9eY/maxresdefault.jpg",
-						"link":"RZMba8dx9eY",
-						"name":"Latest Trick"
+						"picture":"https://img.youtube.com/vi/-KKQfAgRRW0/maxresdefault.jpg",
+						"link":"-KKQfAgRRW0",
+						"name":"Latest One Tap Auto Headshot Trick"
 					},
 					{
-						"picture":"https://img.youtube.com/vi/0HdAupncuHg/maxresdefault.jpg",
-						"link":"0HdAupncuHg",
-						"name":"Latest Trick"
+						"picture":"https://img.youtube.com/vi/jLjXHNOFhYI/maxresdefault.jpg",
+						"link":"jLjXHNOFhYI",
+						"name":"Latest One Tap Auto Headshot Trick"
 					},
 					{
-						"picture":"https://img.youtube.com/vi/rb3dsH22QtQ/maxresdefault.jpg",
-						"link":"rb3dsH22QtQ",
-						"name":"Latest Trick"
+						"picture":"https://img.youtube.com/vi/M22TOvQkv70/maxresdefault.jpg",
+						"link":"M22TOvQkv70",
+						"name":"Latest One Tap Auto Headshot Trick"
 					},
 					{
-						"picture":"https://img.youtube.com/vi/YusfxSZeGik/maxresdefault.jpg",
-						"link":"YusfxSZeGik",
-						"name":"Latest Trick"
+						"picture":"https://img.youtube.com/vi/6aj9gkUfoW8/maxresdefault.jpg",
+						"link":"6aj9gkUfoW8",
+						"name":"Latest One Tap Auto Headshot Trick"
 					}
 					
 					
@@ -138,30 +156,36 @@
 	],
 	
 
+
 	
 	"moreappsgrid":[
 					{
 						"picture":"https://play-lh.googleusercontent.com/NNXBw4aNAivDnsXsvH8cRNgI03ygGcr9l8KF3hAj_IS9WshnP5NlRNYP2_t85OYsYJWR=s180-rw",
-						"link":"",
+						"link":"https://play.google.com/store/apps/details?id=com.nicksfreefirenamesgen1",
 						"name":"Nicknames for games",
 						"type":"install"
 					},
 					{
 						"picture":"https://play-lh.googleusercontent.com/NNXBw4aNAivDnsXsvH8cRNgI03ygGcr9l8KF3hAj_IS9WshnP5NlRNYP2_t85OYsYJWR=s180-rw",
-						"link":"",
+						"link":"https://play.google.com/store/apps/details?id=com.nicksfreefirenamesgen1",
 						"name":"Nicknames for games",
 						"type":"install"
 					},
 					{
 						"picture":"https://play-lh.googleusercontent.com/NNXBw4aNAivDnsXsvH8cRNgI03ygGcr9l8KF3hAj_IS9WshnP5NlRNYP2_t85OYsYJWR=s180-rw",
-						"link":"",
+						"link":"https://play.google.com/store/apps/details?id=com.nicksfreefirenamesgen1",
 						"name":"Nicknames for games",
 						"type":"install"
 					}
 				
+			
+					
+					
 				
 	]
         
+       
+
 
 }{
     
@@ -192,6 +216,11 @@
 	
 	
 	
+
+
+	
+	
+	
 	"BG_IMG":"https://i.pinimg.com/564x/c3/ce/9a/c3ce9aee5fa7ccd9abccf2cbb7ca129e.jpg",
 
 
@@ -206,13 +235,21 @@
     
     "MAINADS":"true",
 
-    "FACEBOOKADSFIRST":"false",
+    "FACEBOOKADSFIRST":"true",
   
+
+	
 
 	"IMAGEMAIN":"https://play-lh.googleusercontent.com/Hb3yKJS1qWBwbEO9mdMan8oLf4LaEe-3AU1zLZWE0CyDDLEWUsrDzM4w6qkpL_nJd9If=w1440-h767-rw",
 	"TXTMAIN":"Latest One Tap Auto Headshot Trick hhhhhhhhhhhhhhhh",
 	"MAINLINK":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5303702/",
 	
+    
+    
+    
+    
+    
+
 
     "Main":[
 					
@@ -266,65 +303,83 @@
 					}
 	],
 
+	
+
+
+	
+
+	
+
+	
+
 	"videos":[
 					
 					{
-						"picture":"https://img.youtube.com/vi/UnWQyUzAYfY/maxresdefault.jpg",
-						"link":"UnWQyUzAYfY",
-						"name":"Latest Trick"
+						"picture":"https://img.youtube.com/vi/js0jfg6ydfU/maxresdefault.jpg",
+						"link":"js0jfg6ydfU",
+						"name":"Latest One Tap Auto Headshot Trick"
 					},
 					{
-						"picture":"https://img.youtube.com/vi/L4VXsQdqHCI/maxresdefault.jpg",
-						"link":"L4VXsQdqHCI",
-						"name":"Latest Trick"
+						"picture":"https://img.youtube.com/vi/4db5JzYQRNM/maxresdefault.jpg",
+						"link":"4db5JzYQRNM",
+						"name":"Latest One Tap Auto Headshot Trick"
 					},
 					{
-						"picture":"https://img.youtube.com/vi/RZMba8dx9eY/maxresdefault.jpg",
-						"link":"RZMba8dx9eY",
-						"name":"Latest Trick"
+						"picture":"https://img.youtube.com/vi/-KKQfAgRRW0/maxresdefault.jpg",
+						"link":"-KKQfAgRRW0",
+						"name":"Latest One Tap Auto Headshot Trick"
 					},
 					{
-						"picture":"https://img.youtube.com/vi/0HdAupncuHg/maxresdefault.jpg",
-						"link":"0HdAupncuHg",
-						"name":"Latest Trick"
+						"picture":"https://img.youtube.com/vi/jLjXHNOFhYI/maxresdefault.jpg",
+						"link":"jLjXHNOFhYI",
+						"name":"Latest One Tap Auto Headshot Trick"
 					},
 					{
-						"picture":"https://img.youtube.com/vi/rb3dsH22QtQ/maxresdefault.jpg",
-						"link":"rb3dsH22QtQ",
-						"name":"Latest Trick"
+						"picture":"https://img.youtube.com/vi/M22TOvQkv70/maxresdefault.jpg",
+						"link":"M22TOvQkv70",
+						"name":"Latest One Tap Auto Headshot Trick"
 					},
 					{
-						"picture":"https://img.youtube.com/vi/YusfxSZeGik/maxresdefault.jpg",
-						"link":"YusfxSZeGik",
-						"name":"Latest Trick"
+						"picture":"https://img.youtube.com/vi/6aj9gkUfoW8/maxresdefault.jpg",
+						"link":"6aj9gkUfoW8",
+						"name":"Latest One Tap Auto Headshot Trick"
 					}
 					
 					
 					
 	],
 	
+
+
 	
 	"moreappsgrid":[
 					{
 						"picture":"https://play-lh.googleusercontent.com/NNXBw4aNAivDnsXsvH8cRNgI03ygGcr9l8KF3hAj_IS9WshnP5NlRNYP2_t85OYsYJWR=s180-rw",
-						"link":"",
+						"link":"https://play.google.com/store/apps/details?id=com.nicksfreefirenamesgen1",
 						"name":"Nicknames for games",
 						"type":"install"
 					},
 					{
 						"picture":"https://play-lh.googleusercontent.com/NNXBw4aNAivDnsXsvH8cRNgI03ygGcr9l8KF3hAj_IS9WshnP5NlRNYP2_t85OYsYJWR=s180-rw",
-						"link":"",
+						"link":"https://play.google.com/store/apps/details?id=com.nicksfreefirenamesgen1",
 						"name":"Nicknames for games",
 						"type":"install"
 					},
 					{
 						"picture":"https://play-lh.googleusercontent.com/NNXBw4aNAivDnsXsvH8cRNgI03ygGcr9l8KF3hAj_IS9WshnP5NlRNYP2_t85OYsYJWR=s180-rw",
-						"link":"",
+						"link":"https://play.google.com/store/apps/details?id=com.nicksfreefirenamesgen1",
 						"name":"Nicknames for games",
 						"type":"install"
 					}
 				
+			
+					
+					
 				
 	]
         
+       
+
+
 }
+
