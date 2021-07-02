@@ -1,6 +1,5 @@
 {
     
-
 	"GOOGLE_INTERSTITIAL":"ca-app-pub-3940256099942544/1033173712",
 	"GOOGLE_NATIVE":"ca-app-pub-3940256099942544/2247696110",
 	"GOOGLE_NATIVE1":"ca-app-pub-3940256099942544/2247696110",
@@ -25,6 +24,7 @@
 	"GOOGLE_BANNERBEDDING2":"ca-app-pub-3940256099942544/6300978111p",
 	"GOOGLE_BANNER1BEDDING2":"ca-app-pub-3940256099942544/630097811p1",
 	
+
 	
 	
 	
@@ -33,14 +33,14 @@
 
 	"INTER_INTERVAL":1,
 
-    "BVISIBLE":"true",
+    "BVISIBLE":"false",
     "MORETIPSLINK":"https://play.google.com/store/apps/details?id=com.TOTOPLAY.totoplaypanishx&hl=en&gl=ec",
 
 
     "NATIVESWITCHBANNER":"false",
-    "RUN":"true",
+    "RUN":"false",
     
-    "MAINADS":"true",
+    "MAINADS":"false",
 
     "FACEBOOKADSFIRST":"false",
   
