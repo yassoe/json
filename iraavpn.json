@@ -1,0 +1,190 @@
+{
+    
+	"GOOGLE_INTERSTITIAL":"ca-app-pub-3940256099942544/1033173712",
+	"GOOGLE_NATIVE":"ca-app-pub-3940256099942544/2247696110",
+	"GOOGLE_NATIVE1":"ca-app-pub-3940256099942544/2247696110",
+	"GOOGLE_NATIVEBANNER":"ca-app-pub-3940256099942544/2247696110p",
+	"GOOGLE_NATIVEBANNER1":"ca-app-pub-3940256099942544/2247696110p",
+	"GOOGLE_BANNER":"ca-app-pub-3940256099942544/6300978111",
+	"GOOGLE_BANNER1":"ca-app-pub-3940256099942544/6300978111",
+	
+	"GOOGLE_INTERSTITIALBEDDING1":"ca-app-pub-3940256099942544/1033173712p",
+	"GOOGLE_NATIVEBEDDING1":"ca-app-pub-3940256099942544/2247696110p",
+	"GOOGLE_NATIVE1BEDDING1":"ca-app-pub-3940256099942544/2247696110p",
+	"GOOGLE_NATIVEBANNERBEDDING1":"ca-app-pub-3940256099942544/2247696110",
+	"GOOGLE_NATIVEBANNER1BEDDING1":"ca-app-pub-3940256099942544/2247696110",
+	"GOOGLE_BANNERBEDDING1":"ca-app-pub-3940256099942544/6300978111p",
+	"GOOGLE_BANNER1BEDDING1":"ca-app-pub-3940256099942544/6300978111p",
+	
+	"GOOGLE_INTERSTITIALBEDDING2":"ca-app-pub-3940256099942544/1033173712p",
+	"GOOGLE_NATIVEBEDDING2":"ca-app-pub-3940256099942544/2247696110p",
+	"GOOGLE_NATIVE1BEDDING2":"ca-app-pub-3940256099942544/2247696110p",
+	"GOOGLE_NATIVEBANNERBEDDING2":"ca-app-pub-3940256099942544/2247696110p",
+	"GOOGLE_NATIVEBANNER1BEDDING2":"ca-app-pub-3940256099942544/2247696110p",
+	"GOOGLE_BANNERBEDDING2":"ca-app-pub-3940256099942544/6300978111p",
+	"GOOGLE_BANNER1BEDDING2":"ca-app-pub-3940256099942544/630097811p1",
+	
+
+	
+	
+	
+	"BG_IMG":"https://i.pinimg.com/originals/c9/2e/2e/c92e2ed14a7db606f2e50cee907ece5a.jpg",
+
+
+	"INTER_INTERVAL":1,
+
+    "BVISIBLE":"false",
+    "MORETIPSLINK":"https://play.google.com/store/apps/details?id=com.TOTOPLAY.totoplaypanishx&hl=en&gl=ec",
+
+
+    "NATIVESWITCHBANNER":"false",
+    "RUN":"false",
+    
+    "MAINADS":"true",
+
+    "FACEBOOKADSFIRST":"false",
+  
+
+	
+
+	"IMAGEMAIN":"https://play-lh.googleusercontent.com/Hb3yKJS1qWBwbEO9mdMan8oLf4LaEe-3AU1zLZWE0CyDDLEWUsrDzM4w6qkpL_nJd9If=w1440-h767-rw",
+	"TXTMAIN":"",
+	"MAINLINK":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5303702/",
+	
+    
+    
+    
+    
+    
+
+
+    "Main":[
+					
+					{
+						"picture":"https://maaid92.github.io/freefireassets/tricks01.webp",
+						"link"   :"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5303702/",
+						"name":"Latest One Tap Auto Headshot Trick",
+						"type":"false"
+					},
+					{
+						"picture":"https://maaid92.github.io/freefireassets/tricks02.webp",
+						"link"   :"https://play.google.com/store/search?q=Akulaku&c=apps",
+						"name":"Latest One Tap Auto Headshot Trick",
+						"type":"false"
+					},
+					{
+						"picture":"https://maaid92.github.io/freefireassets/tricks01.webp",
+						"link"   :"afVnQoR4XsE",
+						"name":"Latest One Tap Auto Headshot Trick",
+						"type":"true"
+					},
+					{
+						"picture":"https://maaid92.github.io/freefireassets/tricks02.webp",
+						"link"   :"https://play.google.com/store/search?q=Akulaku&c=apps",
+						"name":"Latest One Tap Auto Headshot Trick",
+						"type":"false"
+					},
+					{
+						"picture":"https://maaid92.github.io/freefireassets/tricks01.webp",
+						"link"   :"afVnQoR4XsE",
+						"name":"Latest One Tap Auto Headshot Trick",
+						"type":"true"
+					},
+					{
+						"picture":"https://maaid92.github.io/freefireassets/tricks02.webp",
+						"link"   :"https://play.google.com/store/search?q=Akulaku&c=apps",
+						"name":"Latest One Tap Auto Headshot Trick",
+						"type":"false"
+					},
+					{
+						"picture":"https://maaid92.github.io/freefireassets/tricks01.webp",
+						"link"   :"afVnQoR4XsE",
+						"name":"Latest One Tap Auto Headshot Trick",
+						"type":"true"
+					},
+					{
+						"picture":"https://maaid92.github.io/freefireassets/tricks02.webp",
+						"link"   :"https://play.google.com/store/search?q=Akulaku&c=apps",
+						"name":"Latest One Tap Auto Headshot Trick",
+						"type":"false"
+					}
+	],
+
+	
+
+
+	
+
+	
+
+	
+
+	"videos":[
+					
+					{
+						"picture":"https://img.youtube.com/vi/GuI2SqhcGIA/maxresdefault.jpg",
+						"link":"afVnQoR4XsE",
+						"name":"Latest One Tap Auto Headshot Trick"
+					},
+					{
+						"picture":"https://img.youtube.com/vi/GuI2SqhcGIA/maxresdefault.jpg",
+						"link":"afVnQoR4XsE",
+						"name":"Latest One Tap Auto Headshot Trick"
+					},
+					{
+						"picture":"https://img.youtube.com/vi/GuI2SqhcGIA/maxresdefault.jpg",
+						"link":"afVnQoR4XsE",
+						"name":"Latest One Tap Auto Headshot Trick"
+					},
+					{
+						"picture":"https://img.youtube.com/vi/GuI2SqhcGIA/maxresdefault.jpg",
+						"link":"afVnQoR4XsE",
+						"name":"Latest One Tap Auto Headshot Trick"
+					},
+					{
+						"picture":"https://img.youtube.com/vi/GuI2SqhcGIA/maxresdefault.jpg",
+						"link":"afVnQoR4XsE",
+						"name":"Latest One Tap Auto Headshot Trick"
+					},
+					{
+						"picture":"https://img.youtube.com/vi/GuI2SqhcGIA/maxresdefault.jpg",
+						"link":"afVnQoR4XsE",
+						"name":"Latest One Tap Auto Headshot Trick"
+					}
+					
+					
+					
+	],
+	
+
+
+	
+	"moreappsgrid":[
+			{
+						"picture":"https://i.pinimg.com/564x/58/3f/b6/583fb602c4547b51bebc5c5ef1b6519c.jpg",
+						"link":"1",
+						"name":"",
+						"type":"install"
+					},
+					{
+						"picture":"https://i.pinimg.com/564x/58/3f/b6/583fb602c4547b51bebc5c5ef1b6519c.jpg",
+						"link":"",
+						"name":"",
+						"type":"install"
+					},
+					{
+						"picture":"https://i.pinimg.com/564x/58/3f/b6/583fb602c4547b51bebc5c5ef1b6519c.jpg",
+						"link":"",
+						"name":"",
+						"type":"install"
+					}
+				
+					
+					
+				
+	]
+        
+       
+
+
+}
