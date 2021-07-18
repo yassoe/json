@@ -3,18 +3,18 @@
 	"GOOGLE_INTERSTITIAL":"ca-app-pub-3940256099942544/1033173712",
 	"GOOGLE_NATIVE":"ca-app-pub-3940256099942544/2247696110",
 	"GOOGLE_NATIVE1":"ca-app-pub-3940256099942544/2247696110",
-	"GOOGLE_NATIVEBANNER":"ca-app-pub-3940256099942544/2247696110p",
-	"GOOGLE_NATIVEBANNER1":"ca-app-pub-3940256099942544/2247696110p",
+	"GOOGLE_NATIVEBANNER":"ca-app-pub-3940256099942544/2247696110",
+	"GOOGLE_NATIVEBANNER1":"ca-app-pub-3940256099942544/2247696110",
 	"GOOGLE_BANNER":"ca-app-pub-3940256099942544/6300978111",
 	"GOOGLE_BANNER1":"ca-app-pub-3940256099942544/6300978111",
 	
-	"GOOGLE_INTERSTITIALBEDDING1":"ca-app-pub-3940256099942544/1033173712p",
-	"GOOGLE_NATIVEBEDDING1":"ca-app-pub-3940256099942544/2247696110p",
-	"GOOGLE_NATIVE1BEDDING1":"ca-app-pub-3940256099942544/2247696110p",
+	"GOOGLE_INTERSTITIALBEDDING1":"ca-app-pub-3940256099942544/1033173712",
+	"GOOGLE_NATIVEBEDDING1":"ca-app-pub-3940256099942544/2247696110",
+	"GOOGLE_NATIVE1BEDDING1":"ca-app-pub-3940256099942544/2247696110",
 	"GOOGLE_NATIVEBANNERBEDDING1":"ca-app-pub-3940256099942544/2247696110",
 	"GOOGLE_NATIVEBANNER1BEDDING1":"ca-app-pub-3940256099942544/2247696110",
 	"GOOGLE_BANNERBEDDING1":"ca-app-pub-3940256099942544/6300978111p",
-	"GOOGLE_BANNER1BEDDING1":"ca-app-pub-3940256099942544/6300978111p",
+	"GOOGLE_BANNER1BEDDING1":"ca-app-pub-3940256099942544/6300978111",
 	
 	"GOOGLE_INTERSTITIALBEDDING2":"ca-app-pub-3940256099942544/1033173712p",
 	"GOOGLE_NATIVEBEDDING2":"ca-app-pub-3940256099942544/2247696110p",
@@ -161,30 +161,27 @@
 	
 	"moreappsgrid":[
 			{
-						"picture":"https://i.pinimg.com/564x/58/3f/b6/583fb602c4547b51bebc5c5ef1b6519c.jpg",
-						"link":"1",
-						"name":"",
-						"type":"install"
-					},
-					{
-						"picture":"https://i.pinimg.com/564x/58/3f/b6/583fb602c4547b51bebc5c5ef1b6519c.jpg",
+						"picture":"https://play-lh.googleusercontent.com/m59ashQh2Xw6wyrCCiBOrfAOYUa5N6SnVb6JMoAZPLAuVoEkFDRsbTaMSD1UJPcHv_KU=s180-rw",
 						"link":"",
 						"name":"",
 						"type":"install"
 					},
 					{
-						"picture":"https://i.pinimg.com/564x/58/3f/b6/583fb602c4547b51bebc5c5ef1b6519c.jpg",
+						"picture":"https://play-lh.googleusercontent.com/m59ashQh2Xw6wyrCCiBOrfAOYUa5N6SnVb6JMoAZPLAuVoEkFDRsbTaMSD1UJPcHv_KU=s180-rw",
+						"link":"",
+						"name":"",
+						"type":"install"
+					},
+					{
+						"picture":"https://play-lh.googleusercontent.com/m59ashQh2Xw6wyrCCiBOrfAOYUa5N6SnVb6JMoAZPLAuVoEkFDRsbTaMSD1UJPcHv_KU=s180-rw",
 						"link":"",
 						"name":"",
 						"type":"install"
 					}
 				
 					
-					
 				
 	]
-        
-       
-
+   
 
 }
