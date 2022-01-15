@@ -33,12 +33,12 @@
 
 	"INTER_INTERVAL":1,
 
-    "BVISIBLE":"false",
+    "BVISIBLE":"true",
     "MORETIPSLINK":"https://play.google.com/store/apps/details?id=com.TOTOPLAY.totoplaypanishx&hl=en&gl=ec",
 
 
-    "NATIVESWITCHBANNER":"false",
-    "RUN":"false",
+    "NATIVESWITCHBANNER":"true",
+    "RUN":"true",
     
     "MAINADS":"true",
 
